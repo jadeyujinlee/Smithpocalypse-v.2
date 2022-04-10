@@ -1,0 +1,6 @@
+null,food,poster,water,bike,shovel,oar,flashlight,lifevest,candy,food,book,hydroflask,extinguisher,
+ford,schachtCenterBuilding
+.onecard,..saw,..leaflet,..chair,..holyhandgrenade,.firstaid,flyer,.music,.leaflet,.poster,..
+true,false,true,true,true,false,true,false,true,false,false,false,false,true,true,
+null,
+false,true
